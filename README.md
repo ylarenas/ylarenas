@@ -25,8 +25,6 @@ const yesenia = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylarenas&layout=compact&theme=tokyonight&hide_border=true" alt="Top lenguajes" />
-
 <img src="https://streak-stats.demolab.com?user=ylarenas&theme=tokyonight&hide_border=true" alt="Streak" />
 
 </div>
